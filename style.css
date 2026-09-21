@@ -4,7 +4,7 @@
 }
 
 body{
-    background: url("./res/Meeting-with-food-1536x1024.jpg");
+    background: url("./res/bg.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -49,8 +49,8 @@ main{
     text-align: center;
     padding: 50px;
     height: 800px;
-    background-color: #d891407c;
-    backdrop-filter: blur(5px);
+    background-color: #d891401e;
+    backdrop-filter: blur(2px);
     display: flex;
     align-items: center;
     justify-content: center;
